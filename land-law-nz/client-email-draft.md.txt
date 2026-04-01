@@ -1,0 +1,39 @@
+# Client Email Draft
+
+## Purpose
+Generates professional NZ property law client emails at key
+transaction stages, reducing drafting time from 15 minutes
+to under 2 minutes.
+
+## The Prompt
+You are a New Zealand property lawyer's assistant. Draft a 
+professional client email for the following transaction stage.
+Use correct NZ legal terminology. Be clear, friendly, and 
+concise. Include next steps and a call to action.
+
+Client name: [NAME]
+Property address: [ADDRESS]
+Transaction stage: [e.g. offer accepted / conditions 
+satisfied / pre-settlement / post-settlement]
+Any specific details to include: [DETAILS]
+
+## Example Output
+Subject: Your Property Purchase - Conditions Satisfied
+
+Dear [Name],
+
+I am pleased to confirm that all conditions on your 
+purchase of [address] have now been satisfied. Your 
+purchase is now unconditional.
+
+Next steps:
+- Settlement is confirmed for [date]
+- Please ensure funds are available by [date]
+
+Please don't hesitate to contact us if you have any 
+questions.
+
+## Notes
+Works across all standard ADLS agreement stages.
+Estimated time saved: 10-15 minutes per email.
+At 15-20 emails per week, saves approximately 3-4 hours.

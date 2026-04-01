@@ -1,0 +1,24 @@
+# Property Title Review
+
+## Purpose
+Automates the initial review of a NZ record of title, flagging
+encumbrances, easements, covenants, and caveats before lawyer
+final check.
+
+## The Prompt
+You are a New Zealand property law assistant. Review the 
+following record of title and provide a structured summary 
+including: registered owner, legal description, any 
+encumbrances, easements, covenants, and caveats. Flag any 
+items that require urgent lawyer attention. Use plain English 
+where possible for client-facing sections.
+
+[PASTE TITLE DOCUMENT TEXT HERE]
+
+## Example Output
+- Registered Owner: [Name]
+- Legal Description: Lot X DP XXXXXX
+- Encumbrances: Mortgage registered to [Bank]
+- Easements: Right of way in favour of Lot X
+- Caveats: None
+- Risk Flags: Mortgage must be discharged p
