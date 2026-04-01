@@ -1,1 +1,1 @@
-# prompt-libary
+# prompt-library
